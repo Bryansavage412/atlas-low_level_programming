@@ -1,4 +1,3 @@
-6-main.c
 #include "main.h"
 
 /**
