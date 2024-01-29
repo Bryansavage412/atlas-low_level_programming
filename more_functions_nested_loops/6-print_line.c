@@ -6,9 +6,10 @@
  *    * Return: Always 0.
  *     */
 void print_line(int n)
+	int x
 {	
-	print_line(0);
-	 print_line(2);
-	  print_line(10);
-	   print_line(-4);
+	for(x = 0; x < n; x++)
+	_putchar("_");
+	_putchar("\n");
+	
 }
