@@ -22,6 +22,7 @@ void print_most_number(void)
 	{
 	_putchar(x + '0');
 	}
+	}
 	_putchar('\n');
 }
 
